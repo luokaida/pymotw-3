@@ -39,5 +39,5 @@ except Exception as err:
     print('ERROR:', str(err))
 
 i = Implementation()
-print('Implementation.value   :', i.value)
+print('Implementation.value    :', i.value)
 print('Implementation.constant:', i.constant)
